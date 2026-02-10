@@ -1,4 +1,4 @@
-# Capstone Project - DATA 440, Automation & Workflows
+# Capstone Project - Automation & Workflows (DATA 440)
 
 ## StatSwing: An MLB Analytics Application
 
